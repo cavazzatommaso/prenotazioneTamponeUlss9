@@ -1,0 +1,12 @@
+{
+    "luogo":"Legnago",
+    "dataPrenotazione":"01-15",
+    "fasciaOrariaInizio":6,
+    "fasciaOrariaFine":20,
+    "nome":"Mario",
+    "cognome":"Rossi",
+    "email":"mariorossi@gmail.com",
+    "CF":"RSSMRA30A01H501I",
+    "telefono":"1234567890",
+    "autoConfirm":false
+}

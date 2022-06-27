@@ -56,9 +56,9 @@
 
 ### Progetto con
 
-* [Node.js](https://nextjs.org/)
-* [Puppeteer](https://reactjs.org/)
-* [Player.js](https://vuejs.org/)
+* [Node.js](https://nodejs.org/)
+* [Puppeteer](https://github.com/puppeteer/puppeteer)
+* [Player.js](http://playerjs.io/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -122,7 +122,7 @@ Una volta sostituito i valori nel file config.json avvia il bot con `npm run sta
 <!-- CONTACT -->
 ## Contatti
 
-Cavazza Tommaso - [@github](https://github.com/cavazzatommaso) - cavazzatommaso00@gmail.com
+Cavazza Tommaso - [@github](https://github.com/cavazzatommaso)
 
 Project Link: [https://github.com/cavazzatommaso/prenotazioneTamponeUlss9](https://github.com/cavazzatommaso/prenotazioneTamponeUlss9)
 
